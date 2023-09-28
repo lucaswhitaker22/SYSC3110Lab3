@@ -2,7 +2,7 @@ import java.util.ArrayList;
 //Test comment
 public class AddressBook {
     ArrayList<BuddyInfo> buddies;
-
+    //merge comment
     public AddressBook() {this.buddies = new ArrayList<BuddyInfo>();}
     public static void main(String args[]) {
         System.out.println("Address Books");
