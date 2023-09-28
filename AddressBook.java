@@ -1,5 +1,5 @@
 import java.util.ArrayList;
-
+//Test comment
 public class AddressBook {
     ArrayList<BuddyInfo> buddies;
 
